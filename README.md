@@ -1,34 +1,63 @@
-<h1 align="center">Hi 👋, I'm Izaz Khan</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+# 👋 Hi, I'm Izaz Khan  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izaz001&label=Profile%20views&color=0e75b6&style=flat" alt="izaz001" /> </p>
+💻 **Full Stack Web Developer** | 🚀 Passionate about building modern, scalable, and user-friendly applications.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izaz001" alt="izaz001" /></a> </p>
+---
 
-- 🔭 I’m currently working on [PizzatownShergarh](https://pizzatownshergarh.com/)
+## 🧑‍💻 About Me  
+- 🌟 Skilled in **Frontend, Backend & Databases**  
+- 🔥 Love to design responsive UI & develop powerful APIs  
+- 🌱 Always learning & exploring modern technologies  
 
-- 🌱 I’m currently learning **Backend**
+---
 
-- 💬 Ask me about **Laravel**
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me **izazkhanmalakand@gmail.com**
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 
-- 📄 Know about my experiences [2 year](2 year)
+**Backend:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff) 
+![PDO](https://img.shields.io/badge/-PDO-6C3483?style=flat) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
 
-- ⚡ Fun fact **YouTube videos**
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ izaz-khan-09251a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ izaz-khan-09251a249" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaz001&show_icons=true&locale=en&layout=compact" alt="izaz001" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=izazkhan&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izazkhan&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izazkhan&layout=compact&theme=radical&hide_border=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaz001&show_icons=true&locale=en" alt="izaz001" /></p>
+---
 
+## 🏆 Achievements & Trophies  
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=izazkhan&theme=radical&no-frame=true&row=1&column=6)  
 
+---
 
+## 📂 Featured Projects  
+
+🔹 [Portfolio Website](#)  
+🔹 [E-Commerce Web App](#)  
+🔹 [Blog CMS with PHP & PDO](#)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:your.email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+
+---
+
+⭐ **“Code. Build. Innovate. Repeat.”**  
