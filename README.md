@@ -1,59 +1,34 @@
-# Full Stack Developer Portfolio
+<h1 align="center">Hi 👋, I'm Izaz Khan</h1>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-Welcome to my portfolio! I am a passionate Full Stack Developer with expertise in both front-end and back-end technologies. Below is a brief overview of my skills, experience, and projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izaz001&label=Profile%20views&color=0e75b6&style=flat" alt="izaz001" /> </p>
 
-## 👨‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izaz001" alt="izaz001" /></a> </p>
 
-- **Role:** Full Stack Developer
-- **Front-End Skills:**  
-  - HTML  
-  - CSS  
-  - Bootstrap  
-  - JavaScript  
-- **Back-End Skills:**  
-  - PHP (Core)  
-  - PHP PDO  
-- **Experience:** 2 years in PHP backend development
-- **Completed Projects:**  
-  - E-commerce Website  
-  - Personal Portfolio Website
+- 🔭 I’m currently working on [PizzatownShergarh](https://pizzatownshergarh.com/)
 
-## 🚀 Projects
+- 🌱 I’m currently learning **Backend**
 
-### 1. E-commerce Website
-A fully functional e-commerce platform built with modern front-end technologies and robust PHP backend logic. Features include:
-- Responsive UI using Bootstrap
-- Secure user authentication
-- Product catalog and shopping cart
-- Order management system
+- 💬 Ask me about **Laravel**
 
-### 2. Portfolio Website
-A personal portfolio site to showcase my skills, experience, and projects. Features:
-- Clean and modern design
-- Interactive elements with JavaScript
-- Responsive layout for all devices
-- Contact form with backend integration
+- 📫 How to reach me **izazkhanmalakand@gmail.com**
 
-## 🛠️ Skills
+- 📄 Know about my experiences [2 year](2 year)
 
-| Front-End    | Back-End    |
-| ------------ | ----------- |
-| HTML         | PHP (Core)  |
-| CSS          | PHP PDO     |
-| Bootstrap    |             |
-| JavaScript   |             |
+- ⚡ Fun fact **YouTube videos**
 
-## 📈 Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ izaz-khan-09251a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ izaz-khan-09251a249" height="30" width="40" /></a>
+</p>
 
-With 2 years of hands-on experience in PHP backend development, I have built reliable and scalable web applications. My strengths include writing clean code, following best practices, and implementing secure authentication and data handling.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-## 📬 Contact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izaz001&show_icons=true&locale=en&layout=compact" alt="izaz001" /></p>
 
-Feel free to reach out for collaboration, freelance work, or to view my projects!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izaz001&show_icons=true&locale=en" alt="izaz001" /></p>
 
-- **GitHub:** [Izaz001](https://github.com/Izaz001)
-- **Email:** *your-email@example.com* <!-- Replace with your actual email -->
 
----
 
-Thank you for visiting my portfolio!
+
